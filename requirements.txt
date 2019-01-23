@@ -1,0 +1,3 @@
+numpy==1.15.4
+opencv-python==3.4.4.19
+python-qt5==0.1.10
